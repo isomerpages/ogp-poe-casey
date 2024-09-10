@@ -4,29 +4,24 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Due to a rise in phishing attacks targeting personal data, please
+  be extra cautious of unsolicited emails, links, and messages. Always verify
+  before clicking.
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Data, Security and Privacy
+      subtitle: Empowering You with Essential Tips to Safeguard Your Data and Privacy
+        Online
+      background: /images/cyber_security_personal_data_protection_padlock_abstract_hi_tech_free_vector.jpg
+      key_highlights:
+        - title: Data Security Best Practices
+          description: Protect, secure, prevent
+          url: ""
+        - title: Privacy Protection Tips
+          description: Manage your digital footprint
+          url: ""
+        - title: Cybersecurity Threats & Trends
+          description: Latest scams, hacks, and risks
+          url: /privacy/
+      variant: center
 ---
-
