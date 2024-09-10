@@ -1,12 +1,42 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
+# Frequently asked Questions (FAQ)
 
-### **FAQ**
+<u>**General Information**</u>
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1.  **What is SecureSphere Singapore?**
+<br>SecureSphere Singapore is a comprehensive resource for data protection and privacy tailored specifically for Singaporean citizens. We provide information, tools, and best practices to help you safeguard your personal data and stay informed about privacy regulations.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+2. **Why is data protection important?**
+<br>Data protection is crucial to prevent unauthorized access, misuse, or theft of your personal information. It helps safeguard your privacy, secure your digital identity, and reduce the risk of identity theft and fraud.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<u>**Data Protection Tips**</u>
+
+3.   **How can I protect my personal data online?**
+<br> To protect your personal data online:
+* Use strong, unique passwords for different accounts.
+* Enable two-factor authentication.
+* Keep your software and devices updated.
+* Be cautious about sharing personal information and clicking on links from unknown sources.
+* Use reputable security software and tools.
+
+<u>**Privacy Laws**</u>
+
+4. **What privacy laws apply in Singapore?**
+<br>In Singapore, the Personal Data Protection Act (PDPA) governs the collection, use, and disclosure of personal data. It sets out guidelines for organizations to follow in order to protect individuals' data privacy.
+
+<u>**Services and Support**</u>
+
+5. **Can SecureSphere Singapore assist with data protection audits?**
+<br>....While SecureSphere Singapore provides information and resources, we do not offer direct data protection audits. For personalized audits and professional advice, we recommend consulting with a certified data protection expert.
+
+<u>**Updates and Engagement**</u>
+
+6.  **Where can I find updates on privacy regulations and news?**  
+    Check our [News &amp; Updates](/news-and-updates) section for the latest information on privacy regulations, trends, and industry news. We regularly update this section to keep you informed.
+    
+7.  **How can I get involved with SecureSphere Singapore?**  
+    To get involved, consider subscribing to our newsletter, following us on social media, or participating in our community forums. We also welcome feedback and suggestions to help us improve our resources and services.
