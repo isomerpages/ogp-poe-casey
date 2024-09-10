@@ -1,4 +1,5 @@
 collections:
   best-practices-and-tips:
     output: true
-    order: []
+    order:
+      - Data Security Best Practices for Businesses.md
