@@ -3,12 +3,12 @@ links:
   - title: Home
     url: placeholder
   - title: About Us
-    collection: example-folder
-  - title: Best Practices and Tips
-    collection: example-folder
-  - title: News and updates
-    collection: example-folder
-  - title: Resources
-    collection: example-folder
+    collection: about-us
+  - title: About Us
+    collection: about-us
+  - title: About Us
+    collection: about-us
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
