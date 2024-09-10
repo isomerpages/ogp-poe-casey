@@ -2,8 +2,8 @@ logo: /images/6005876.png
 links:
   - title: Home
     url: /homepage
-  - title: About Us
-    collection: about-us
+  - title: Our Mission
+    url: /our-mission
   - title: Best Practices and Tips
     collection: best-practices-and-tips
   - title: News & Updates
