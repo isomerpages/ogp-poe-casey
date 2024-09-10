@@ -24,4 +24,34 @@ sections:
           description: Latest scams, hacks, and risks
           url: /privacy/
       variant: center
+  - infopic:
+      title: Empowering Users with Data Security and Privacy
+      subtitle: "Our mission:"
+      id: infopic
+      description: Learn about our commitment to providing essential knowledge and
+        tools to help individuals safeguard their data and maintain online
+        privacy.
+      button: Find out more here
+      url: placeholder
+      alt: placeholder
+  - infopic:
+      title: A Look at the Growing Need for Protection Online
+      subtitle: "Why Data Security Matters:"
+      id: infopic
+      description: Explore the rising importance of data security and why protecting
+        your personal and sensitive information is vital in today's digital
+        landscape.
+      button: Find out more here
+      url: placeholder
+      alt: placeholder
+  - infopic:
+      title: How We Got Here
+      subtitle: "Evolution of Cybersecurity:"
+      id: infopic
+      description: A journey through the history of cybersecurity, and the
+        ever-evolving challenges that shape the need for stronger security
+        practices.
+      button: Find out more here
+      url: placeholder
+      alt: placeholder
 ---
