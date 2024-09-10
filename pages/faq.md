@@ -5,7 +5,7 @@ variant: markdown
 ---
 # Frequently asked Questions (FAQ)
 
-<u>**General Information**</u>
+**<u>General Information</u>**
 
 1.  **What is SecureSphere Singapore?**
 <br>SecureSphere Singapore is a comprehensive resource for data protection and privacy tailored specifically for Singaporean citizens. We provide information, tools, and best practices to help you safeguard your personal data and stay informed about privacy regulations.
@@ -13,7 +13,7 @@ variant: markdown
 2. **Why is data protection important?**
 <br>Data protection is crucial to prevent unauthorized access, misuse, or theft of your personal information. It helps safeguard your privacy, secure your digital identity, and reduce the risk of identity theft and fraud.
 
-<u>**Data Protection Tips**</u>
+**<u>Data Protection Tips</u>**
 
 3.   **How can I protect my personal data online?**
 <br> To protect your personal data online:
