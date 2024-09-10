@@ -1,8 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: SecureSphere Singapore
+description: Providing essential data protection and privacy resources for
+  Singapore citizens. Access expert insights, practical guides, and the latest
+  updates to keep your personal information safe in the digital age.
+image: /images/cyber_security_personal_data_protection_padlock_abstract_hi_tech_free_vector.jpg
 permalink: /
 notification: Due to a rise in phishing attacks targeting personal data, please
   be extra cautious of unsolicited emails, links, and messages. Always verify
