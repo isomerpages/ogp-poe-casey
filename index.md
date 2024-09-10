@@ -56,4 +56,9 @@ sections:
       button: Find out more here
       url: placeholder
       alt: placeholder
+  - resources:
+      title: News & Updates
+      subtitle: Stay in the know
+      id: resources
+      button: Explore more here
 ---
