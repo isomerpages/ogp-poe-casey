@@ -2,4 +2,5 @@ collections:
   best-practices-and-tips:
     output: true
     order:
+      - Data Security Best Practices for Individuals.md
       - Data Security Best Practices for Businesses.md
