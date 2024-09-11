@@ -2,7 +2,6 @@ collections:
   best-practices-and-tips:
     output: true
     order:
-      - Tips for Better Data Privacy.md
       - Data Protection Following a Data Breach.md
       - Protecting Data While Working Remotely and Working from Home.md
       - Securing Your Devices and Networks.md
