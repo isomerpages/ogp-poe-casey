@@ -2,4 +2,5 @@ collections:
   best-practices-and-tips:
     output: true
     order:
+      - Tips for Businesses/.keep
       - Tips for Individuals/.keep
