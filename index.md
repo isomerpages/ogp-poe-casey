@@ -45,7 +45,7 @@ sections:
         your personal and sensitive information is vital in today's digital
         landscape.
       button: Find out more here
-      url: placeholder
+      url: /a-look-at-the-growing-need-for-protection-online/
       alt: data privacy and security
       image: /images/45105872_technology_security_access_and_data_privacy.jpg
   - infopic:
