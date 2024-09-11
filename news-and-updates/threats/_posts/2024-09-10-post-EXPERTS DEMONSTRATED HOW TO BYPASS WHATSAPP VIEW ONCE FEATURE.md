@@ -19,9 +19,8 @@ cannot take screenshots or screen recordings of it.</p>
 to re-view the messages and save the picture and video, which should vanish
 immediately after being displayed on the recipient’s device.&nbsp;The popular
 instant messaging app also prevents users from taking screenshots.&nbsp;</p>
-<p>The “<a href="https://faq.whatsapp.com/578442220724722/?cms_platform=android" rel="noopener noreferrer nofollow" target="_blank">View Once</a>”
-feature is available only on mobile devices but not on the web app and
-was first supported in 2021.&nbsp;</p>
+<p>The "View Once" feature is available only on mobile devices but not on
+the web app and was first supported in 2021.&nbsp;</p>
 <p>The researchers Tal Be’ery from Zengo X Research Team discovered the flaw
 and published technical details of the issue this week.</p>
 <p>The researchers responsibly disclosed their findings to Meta but decided
@@ -59,5 +58,6 @@ linked devices ( web, desktop). Please note it will only defeat extensions
 and is not relevant against patched mobile clients.”</p>
 </blockquote>
 <p>WhatsApp has yet to reveal when it plans to address the issue.</p>
+<hr>
 <p></p>
 <p>Author: Pierluigi Paganini</p>
