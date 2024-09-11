@@ -46,7 +46,8 @@ sections:
         landscape.
       button: Find out more here
       url: placeholder
-      alt: placeholder
+      alt: data privacy and security
+      image: /images/45105872_technology_security_access_and_data_privacy.jpg
   - infopic:
       title: How We Got Here
       subtitle: "Evolution of Cybersecurity:"
