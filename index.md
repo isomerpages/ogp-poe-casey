@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Data Security Best Practices
           description: Protect, secure, prevent
-          url: ""
+          url: /best-practices-and-tips/
         - title: Privacy Protection Tips
           description: Manage your digital footprint
           url: ""
