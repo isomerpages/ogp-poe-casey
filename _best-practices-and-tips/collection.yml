@@ -2,5 +2,4 @@ collections:
   best-practices-and-tips:
     output: true
     order:
-      - Data Encryption & Secure Communication.md
       - Password & Account Security.md
