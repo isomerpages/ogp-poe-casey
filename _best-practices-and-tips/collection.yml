@@ -1,5 +1,4 @@
 collections:
   best-practices-and-tips:
     output: true
-    order:
-      - Password & Account Security.md
+    order: []
