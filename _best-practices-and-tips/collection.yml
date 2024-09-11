@@ -2,6 +2,5 @@ collections:
   best-practices-and-tips:
     output: true
     order:
-      - Employee Training (For Businesses).md
       - Data Encryption & Secure Communication.md
       - Password & Account Security.md
