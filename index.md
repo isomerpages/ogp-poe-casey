@@ -36,6 +36,7 @@ sections:
       button: Find out more here
       url: /our-mission/
       alt: placeholder
+      image: /images/960x0.png
   - infopic:
       title: A Look at the Growing Need for Protection Online
       subtitle: "Why Data Security Matters:"
