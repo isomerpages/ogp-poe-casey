@@ -57,7 +57,8 @@ sections:
         practices.
       button: Find out more here
       url: placeholder
-      alt: placeholder
+      alt: Evolution of cybersecurity
+      image: /images/Evolution_of_Cyber_Security.png
   - resources:
       title: News & Updates
       subtitle: Stay in the know
