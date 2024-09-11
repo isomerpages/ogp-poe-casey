@@ -35,7 +35,7 @@ sections:
         privacy.
       button: Find out more here
       url: /our-mission/
-      alt: placeholder
+      alt: our mission
       image: /images/960x0.png
   - infopic:
       title: A Look at the Growing Need for Protection Online
