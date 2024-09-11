@@ -54,6 +54,100 @@ breach costs $4.88 million on average in 2024. In 2023, compromised business
 emails accounted for more than $2.9 billion in losses. These alarming figures
 emphasize the danger of cyber vulnerabilities and highlight the need for
 skilled cybersecurity professionals.</p>
+<h3><strong>Personal Data Breaches</strong></h3>
+<p>Due to the interconnected nature of digital systems and the vast amount
+of personal information stored online, cybercrime is often a gateway to
+identity theft. Hackers leverage methods like phishing emails, malware
+and data breaches to gain unauthorized access to sensitive data, including
+social security numbers, login credentials and financial information.</p>
+<p>The year 2013 saw one of the biggest data breaches in history when more
+than 3 billion Yahoo user accounts were compromised. Hackers targeted Yahoo’s
+database to steal records from user accounts. And in 2019, Facebook was
+the target of a massive data breach where 533 million users’ personal information
+was leaked.</p>
+<p>In 2023 alone, more than 349 million people were impacted by data breaches.
+This alarming trend is further underscored by the number of reports received
+by the Consumer Sentinel Network in 2023. Among these reports, fraud accounted
+for more than 2.6 million reports, while identity theft constituted over
+one million.</p>
+<h4><strong>Most Common Types of Identity Theft</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Rank</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Theft Type</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Number of Reports in 2023</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit cart fraud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>416,636</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other identity theft</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>260,820</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loan or lease fraud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>149,804</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bank account fraud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>136,852</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Government documents or benefits fraud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>97,038</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3><strong>The Cost of Cybercrime</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
