@@ -56,7 +56,7 @@ sections:
         ever-evolving challenges that shape the need for stronger security
         practices.
       button: Find out more here
-      url: /a-look-at-the-growing-need-for-protection-online/
+      url: /evolution-of-cybersecurity/
       alt: Evolution of cybersecurity
       image: /images/Evolution_of_Cyber_Security.png
   - resources:
