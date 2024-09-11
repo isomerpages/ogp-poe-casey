@@ -2,6 +2,5 @@ collections:
   best-practices-and-tips:
     output: true
     order:
-      - Protecting Data While Working Remotely and Working from Home.md
       - Securing Your Devices and Networks.md
       - Data Security Best Practices for Businesses.md
