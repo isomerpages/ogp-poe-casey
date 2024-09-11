@@ -310,3 +310,6 @@ against external threats.&nbsp;</p>
 education for a robust defense against evolving security challenges. Encouraging
 vigilance and good cybersecurity awareness is something your employees
 will carry well beyond the confines of the office.</p>
+<hr>
+<p>Author: <a href="https://preyproject.com/blog/how-to-educate-employees-about-cybersecurity" rel="noopener nofollow" target="_blank">Nicolas Poggi</a>
+</p>
