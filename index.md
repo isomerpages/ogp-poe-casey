@@ -34,7 +34,7 @@ sections:
         tools to help individuals safeguard their data and maintain online
         privacy.
       button: Find out more here
-      url: placeholder
+      url: /our-mission/
       alt: placeholder
   - infopic:
       title: A Look at the Growing Need for Protection Online
