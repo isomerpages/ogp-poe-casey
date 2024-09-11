@@ -2,5 +2,5 @@ collections:
   our-mission:
     output: true
     order:
-      - Fostering a Culture of Security.md
       - Supporting National and Global Standards.md
+      - Fostering a Culture of Security.md
