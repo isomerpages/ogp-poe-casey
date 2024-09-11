@@ -18,13 +18,10 @@ sections:
       key_highlights:
         - title: Data Security Best Practices
           description: Protect, secure, prevent
-          url: /best-practices-and-tips/
-        - title: Privacy Protection Tips
-          description: Manage your digital footprint
-          url: ""
+          url: /password-account-security/
         - title: Cybersecurity Threats & Trends
           description: Latest scams, hacks, and risks
-          url: /privacy/
+          url: /news-and-updates/
       variant: center
   - infopic:
       title: Empowering Users with Data Security and Privacy
