@@ -2,5 +2,4 @@ collections:
   best-practices-and-tips:
     output: true
     order:
-      - Securing Your Devices and Networks.md
       - Data Security Best Practices for Businesses.md
