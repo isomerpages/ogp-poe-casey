@@ -23,8 +23,8 @@ to the National Institute of Standards and Technology, organizations “should
 assume that malicious parties will gain control of telework client devices
 and attempt to recover sensitive data from them or leverage the devices
 to gain access to the enterprise network.”</p>
-<p>Here are three quick statistics that highlight the importance of training
-employees in cyber security awareness:</p>
+<p><strong>Here are three quick statistics that highlight the importance of training employees in cyber security awareness:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.weforum.org/publications/global-risks-report-2022/in-full/chapter-3-digital-dependencies-and-cyber-vulnerabilities/" rel="noopener noreferrer nofollow" target="_blank"><u>95% of cybersecurity issues</u></a> are
@@ -152,7 +152,7 @@ measures, and response actions for remote employees.</p>
 </ul>
 <h4>5. Encourage taking great care of your devices</h4>
 <p>A Forrester survey found that 15% of company breaches are caused by
-<a href="https://preyproject.com/blog/things-to-remember-when-training-employees-for-mobile-security" rel="noopener noreferrer nofollow" target="_blank"><u> lost or missing devices</u>
+<a href="https://preyproject.com/blog/things-to-remember-when-training-employees-for-mobile-security" rel="noopener noreferrer nofollow" target="_blank"><u>lost or missing devices</u>
 </a>. Whether it’s a corporate or personal device, training your employees
 about cybersecurity includes bringing awareness that their gadget acts
 as a gateway to your organization’s network. This makes it important to
