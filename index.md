@@ -34,7 +34,7 @@ sections:
         tools to help individuals safeguard their data and maintain online
         privacy.
       button: Find out more here
-      url: /our-mission/
+      url: /supporting-national-and-global-standards/
       alt: our mission
       image: /images/960x0.png
   - infopic:
