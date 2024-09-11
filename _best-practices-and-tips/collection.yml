@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Tips for Businesses/.keep
+      - Tips for Individuals/Password & Account Security.md
       - Tips for Individuals/.keep
