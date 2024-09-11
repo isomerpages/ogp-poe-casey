@@ -2,4 +2,4 @@ collections:
   our-mission:
     output: true
     order:
-      - Supporting National and Global Standards in Data Protection.md
+      - Supporting National and Global Standards.md
