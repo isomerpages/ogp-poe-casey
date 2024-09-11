@@ -6,43 +6,37 @@ description: Discover the best ways to back up personal data securely, choose
   cloud storage options, and develop a recovery plan in case of data loss.
 third_nav_title: Tips for Individuals
 ---
-<p>Have you ever lost a lot of important&nbsp;<a href="https://us.norton.com/blog/how-to/ten-ways-to-keep-your-data-private" rel="noopener noreferrer nofollow" target="_blank"><u>data</u></a>?
-Or, short of&nbsp;that, have you ever felt a moment of panic where you
-thought you did?&nbsp;&nbsp;</p>
+<p>Have you ever lost a lot of important data? Or, short of&nbsp;that, have
+you ever felt a moment of panic where you thought you did?&nbsp;&nbsp;</p>
 <p>Whether it’s images of a family vacation, a report from work, or&nbsp;a
-semester’s worth of homework, you probably have data on your computer’s&nbsp;
-<a href="https://us.norton.com/blog/how-to/wipe-your-old-drive-clean" rel="noopener noreferrer nofollow" target="_blank"><u>hard drive</u>
-</a>&nbsp;or your mobile&nbsp;device that’s too valuable to lose. That’s where
-a data backup comes in.&nbsp;There’s even an entire day dedicated to its
-importance:&nbsp;<a href="https://www.worldbackupday.com/en/" rel="noopener noreferrer nofollow" target="_blank"><u>World Backup Day</u></a>.&nbsp;&nbsp;</p>
+semester’s worth of homework, you probably have data on your computer’s
+hard drive or your mobile&nbsp;device that’s too valuable to lose. That’s
+where a data backup comes in.&nbsp;There’s even an entire day dedicated
+to its importance:&nbsp;<a href="https://www.worldbackupday.com/en/" rel="noopener noreferrer nofollow" target="_blank"><u>World Backup Day</u></a>.&nbsp;&nbsp;</p>
 <p>But a backup strategy isn’t something to focus on just one day&nbsp;of
-the year. It should be a regular part of your&nbsp;<a href="https://us.norton.com/blog/how-to/good-cyber-hygiene" rel="noopener noreferrer nofollow" target="_blank"><u>cyber hygiene</u></a>.
-To that end,&nbsp;consider this your ultimate guide to backing up your
-data.&nbsp;</p>
+the year. It should be a regular part of your cyber hygiene. To that end,&nbsp;consider
+this your ultimate guide to backing up your data.&nbsp;</p>
 <h3><strong>What is a data&nbsp;backup?&nbsp;</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data backup explanation" src="/images/data_backup_explained.jpg">
 </div>
 <p>A data backup is a copy or archive of the important information&nbsp;stored
-on your devices such as a computer, phone, or&nbsp;<a href="https://us.norton.com/blog/emerging-threats/why-smartphones-and-tablets-need-security-software" rel="noopener noreferrer nofollow" target="_blank"><u>tablet</u></a>,
-and it’s used&nbsp;to restore that original information in the event of
-a data loss.&nbsp;&nbsp;</p>
-<p>Data losses can occur in many forms, from hard drive failures to&nbsp;
-<a href="https://us.norton.com/blog/emerging-threats/ransomware-what-can-you-do-about-it" rel="noopener noreferrer nofollow" target="_blank"><u>ransomware</u>
-</a>&nbsp;attacks and even&nbsp;human error or&nbsp;<a href="https://us.norton.com/blog/mobile/what-to-do-when-a-device-is-lost-or-stolen" rel="noopener noreferrer nofollow" target="_blank"><u>physical theft</u></a>.
-No matter the&nbsp;misfortune, a data backup could be the respite you’re
-looking for to restore&nbsp;the data on your devices. A backup is typically
-stored in a secure, separate&nbsp;location from an original device, such
-as the&nbsp;<a href="https://us.norton.com/blog/how-to/secure-your-info-in-the-cloud" rel="noopener noreferrer nofollow" target="_blank"><u>cloud</u></a>.&nbsp;&nbsp;</p>
+on your devices such as a computer, phone, or tablet, and it’s used&nbsp;to
+restore that original information in the event of a data loss.&nbsp;&nbsp;</p>
+<p>Data losses can occur in many forms, from hard drive failures to ransomware
+attacks and even&nbsp;human error or physical theft. No matter the&nbsp;misfortune,
+a data backup could be the respite you’re looking for to restore&nbsp;the
+data on your devices. A backup is typically stored in a secure, separate&nbsp;location
+from an original device, such as the cloud.</p>
 <p>This way, whenever you have that crushing feeling that all your&nbsp;hard
 work and treasured memories are gone, you can rest assured that a data&nbsp;backup
 has your back.</p>
 <h3><strong>Types of data&nbsp;backups&nbsp;</strong></h3>
 <p>When deciding on a backup data storage strategy, there are&nbsp;different
-types of data backups you can perform to help&nbsp;<a href="https://us.norton.com/blog/how-to/how-to-protect-personal-information-online" rel="noopener noreferrer nofollow" target="_blank"><u>protect your&nbsp;personal data</u></a>.
-Depending on the size of the data you’d like to protect and&nbsp;the frequency
-with which you’d like to back it up, you can decide between these&nbsp;three
+types of data backups you can perform to help&nbsp;protect your&nbsp;personal
+data. Depending on the size of the data you’d like to protect and&nbsp;the
+frequency with which you’d like to back it up, you can decide between these&nbsp;three
 data backup options:&nbsp;&nbsp; &nbsp; <strong>&nbsp; &nbsp;&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -99,11 +93,10 @@ is lost:&nbsp;</p>
 recovery plan. By backing up your devices, you’re already one step&nbsp;ahead
 of any cyberthreats that might result in data loss.&nbsp;&nbsp;</p>
 <p>It’s worth noting, however, that data loss isn’t always the&nbsp;result
-of cyberthreats. It can also be the case that your external hard drive&nbsp;or&nbsp;
-<a href="https://us.norton.com/blog/how-to/donate-your-computer-laptop-smartphone" rel="noopener noreferrer nofollow" target="_blank"><u>computer wears&nbsp;out</u>
-</a>&nbsp;and you lose your data. That’s just the nature of any piece of hardware,
-and&nbsp;backing up your data can help you restore it on a&nbsp;<a href="https://us.norton.com/blog/iot/iot-device-security" rel="noopener noreferrer nofollow" target="_blank"><u>new device</u></a>.</p>
-<p></p>
+of cyberthreats. It can also be the case that your external hard drive&nbsp;or&nbsp;computer
+wears&nbsp;out and you lose your data. That’s just the nature of any piece
+of hardware, and&nbsp;backing up your data can help you restore it on a
+new device.</p>
 <h3><strong>What is a 3-2-1&nbsp;backup strategy? + data backup best practices&nbsp;</strong></h3>
 <p>The <strong>3-2-1 </strong>backup strategy is a method that ensures your
 data is&nbsp;appropriately copied and consistently recoverable. The concept:
