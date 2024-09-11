@@ -39,10 +39,11 @@ from hackers. But even strong passwords are vulnerable to cyberattacks.
 Using <a href="https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts" rel="noopener noreferrer nofollow" target="_blank">multi-factor authentication</a> means
 a hacker who steals your password can’t log in to your account without
 another authentication factor.</p>
-<p>The most common type of multi-factor authentication is a <a href="https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts#OTP" rel="noopener noreferrer nofollow" target="_blank">verification passcode you get by text message or email</a>.
-This one-time passcode is typically six digits or longer and it expires
-automatically. But this is the least secure type of two-factor authentication,
-so choose a more secure method like an <a href="https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts#app" rel="noopener noreferrer nofollow" target="_blank">authenticator app</a> or
+<p>The most common type of multi-factor authentication is a verification
+passcode you get by text message or email. This one-time passcode is typically
+six digits or longer and it expires automatically. But this is the least
+secure type of two-factor authentication, so choose a more secure method
+like an <a href="https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts#app" rel="noopener noreferrer nofollow" target="_blank">authenticator app</a> or
 a <a href="https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts#key" rel="noopener noreferrer nofollow" target="_blank">security key</a> for
 more protection, if you have the option.</p>
 <h4>Pick Security Questions Only You Can Answer</h4>
