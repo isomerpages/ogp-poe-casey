@@ -31,7 +31,7 @@ variant: markdown
 **<u>Services and Support</u>**
 
 5. **Can SecureSphere Singapore assist with data protection audits?**
-<br>....While SecureSphere Singapore provides information and resources, we do not offer direct data protection audits. For personalized audits and professional advice, we recommend consulting with a certified data protection expert.
+<br>While SecureSphere Singapore provides information and resources, we do not offer direct data protection audits. For personalized audits and professional advice, we recommend consulting with a certified data protection expert.
 
 **<u>Updates and Engagement</u>**
 
