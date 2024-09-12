@@ -13,10 +13,9 @@ third_nav_title: Tips for Businesses
 of <a href="https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>May 2023</u></a>,
 nearly 8% of employees work from home full-time, while more than 25% work
 a hybrid model. While many employees enjoy the flexibility that WFH brings,
-<a href="https://preyproject.com/blog/10-tips-for-creating-a-secure-byod-policy-for-your-company" rel="noopener noreferrer nofollow" target="_blank"><u>the use of employee-owned devices</u>
-</a>, unsecured connections, and improper device usage leave companies vulnerable
-to a host of network intrusions. This is why training employees on cyber
-security is a must.</p>
+the use of employee-owned devices, unsecured connections, and improper
+device usage leave companies vulnerable to a host of network intrusions.
+This is why training employees on cyber security is a must.</p>
 <h3>Why is training employees on cyber security important?</h3>
 <p>When it comes to cyber security, you must take a proactive approach. According
 to the National Institute of Standards and Technology, organizations “should
@@ -40,18 +39,17 @@ caused by human error.</p>
 <h3>How to train employees on cyber security: 10 tips for success</h3>
 <p>To minimize the risk of a network intrusion, it’s necessary to bolster
 your first line of defense against external threats—AKA training your employees
-on cybersecurity best practices.. Here are our expert tips for how to train
-employees on cyber security, both in-person and <a href="https://preyproject.com/blog/the-remote-cybersecurity-landscape-shift-our-new-report" rel="noopener noreferrer nofollow" target="_blank"><u>remote</u></a>.&nbsp;</p>
+on cybersecurity best practices. Here are our expert tips for how to train
+employees on cyber security, both in-person and remote.</p>
 <h4>1. Develop a cyber security policy</h4>
 <p>It’s hard to get your employees to follow the rules if they don’t know
 what they are. The question is, do you know what they are?</p>
 <p>The first step to training employees on cyber security is developing a
-company-wide cyber security and <a href="https://preyproject.com/blog/10-tips-for-creating-a-secure-byod-policy-for-your-company" rel="noopener noreferrer nofollow" target="_blank"><u>device policy</u></a>.
-These policies should be formally documented and shared with all employees
-upon hiring. But don’t let it stop there. Engage in discussions with employees
-about <a href="https://preyproject.com/blog/it-security-policies-the-basics" rel="noopener noreferrer nofollow" target="_blank"><u>security policies</u></a> periodically
-throughout employment, and test them periodically to ensure ongoing adherence
-to policies.</p>
+company-wide cyber security and device policy. These policies should be
+formally documented and shared with all employees upon hiring. But don’t
+let it stop there. Engage in discussions with employees about security
+policies periodically throughout employment, and test them periodically
+to ensure ongoing adherence to policies.</p>
 <h4>2. Help your employees understand cyber security</h4>
 <p>The next step to getting employees acquainted with cybersecurity education
 is to outline a clear message about your company’s cyber security policies,
@@ -136,8 +134,6 @@ certification.</p>
 the National Cybersecurity Alliance releases one video every other month,
 starting in November 2019, and ending in November 2020.</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>ESET offers a free <a href="https://www.eset.com/us/cybertraining/" rel="noopener noreferrer nofollow" target="_blank"><u>one-hour training course</u></a> that
 teaches best practices for remote employees. The paid version includes
@@ -175,10 +171,10 @@ restricted installations, and web filtering.</p>
 <p>Make sure security patches and OS updates are followed.</p>
 </li>
 </ul>
-<p>A device management and monitoring solution, such as <a href="https://preyproject.com/features/device-management" rel="noopener noreferrer nofollow" target="_blank"><u>our Multi-OS Device Remote Management</u></a> can
-help mitigate risk by automating the push updates and tracking the device’s
-status and its location at all times. But this should only serve as a backup,
-and end-user security best practices should rest with the employee.</p>
+<p>A device management and monitoring solution can help mitigate risk by
+automating the push updates and tracking the device’s status and its location
+at all times. But this should only serve as a backup, and end-user security
+best practices should rest with the employee.</p>
 <h4>6. Teach employees how to spot suspicious activity</h4>
 <p><strong>Improve your employees' eyes in spotting suspicious activities to enhance their cybersecurity awareness by teaching them to watch for the following signs:</strong>
 </p>
