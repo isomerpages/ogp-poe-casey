@@ -32,7 +32,7 @@ the blog for further details.</p>
 messages, only with the “view once” flag set.&nbsp;<strong>Which means it’s the virtual equivalent of putting a note on the picture that says “don’t look”</strong>.
 All that is required for attackers to circumvent it, is merely to set this
 flag to false and the “view once” media immediately becomes “regular” media
-and can be downloaded, forwarded and shared.” reads the <strong><a href="https://zengo.com/whatsapps-view-once-privacy-issue/" rel="noopener noreferrer nofollow" target="_blank">post</a></strong> published
+and can be downloaded, forwarded and shared.” reads the <strong><a href="https://zengo.com/whatsapps-view-once-privacy-issue/" rel="noopener noreferrer nofollow" target="_blank">post</a> </strong>published
 by Tal Be’ery.</p>
 <p>“Given its media URL, the View once media can be downloaded&nbsp;<strong>by any client</strong>,
 no authentication is needed (reader still needs the decryption key sent
