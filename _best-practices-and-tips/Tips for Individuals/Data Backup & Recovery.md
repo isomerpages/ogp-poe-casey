@@ -97,7 +97,7 @@ of cyberthreats. It can also be the case that your external hard drive&nbsp;or&n
 wears&nbsp;out and you lose your data. That’s just the nature of any piece
 of hardware, and&nbsp;backing up your data can help you restore it on a
 new device.</p>
-<h3><strong>What is a 3-2-1&nbsp;backup strategy? + data backup best practices&nbsp;</strong></h3>
+<h3><strong>What is a 3-2-1&nbsp;backup strategy?</strong></h3>
 <p>The <strong>3-2-1 </strong>backup strategy is a method that ensures your
 data is&nbsp;appropriately copied and consistently recoverable. The concept:
 Create three&nbsp;copies of your data on at least two storage solutions,
