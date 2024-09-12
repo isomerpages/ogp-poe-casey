@@ -25,7 +25,7 @@ sections:
       variant: center
   - textcards:
       title: Data Breach Response Steps
-      subtitle: Steps to Take After a Breach
+      subtitle: I've been attacked!
       id: textcards
       description: "When you're attacked, time is critical. Here’s how to respond to a
         personal data breach in 4 steps:"
