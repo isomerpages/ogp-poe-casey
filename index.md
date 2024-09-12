@@ -61,4 +61,30 @@ sections:
       subtitle: Stay in the know
       id: resources
       button: Explore more here
+  - textcards:
+      title: Data Breach Response Steps
+      subtitle: Steps to Take After a Breach
+      id: textcards
+      description: "When you're attacked, time is critical. Here’s how to respond to a
+        personal data breach in 4 steps:"
+      cards:
+        - title: Secure Your Accounts
+          description: Change passwords and enable 2FA to prevent further unauthorized
+            access.
+          linktext: Learn more
+          url: /password-account-security/
+        - title: Notify Relevant Parties
+          description: Inform your bank and affected services to take protective measures.
+          linktext: Learn more
+          url: https://www.dbs.com.sg/personal/support/guide-security-on-scams-and-fraud.html#:~:text=If%20you%20believe%20your%20bank,POSB%20Branch%20for%20immediate%20assistance.
+        - title: Monitor for Suspicious Activity
+          description: Watch for unusual transactions and set fraud alerts or credit
+            freezes.
+          linktext: Learn more
+          url: https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts
+        - title: Report the Breach
+          description: Report to authorities like PDPC and follow their guidance for next
+            steps.
+          linktext: Report here
+          url: https://www.pdpc.gov.sg/complaints-and-reviews
 ---
