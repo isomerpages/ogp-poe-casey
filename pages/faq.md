@@ -36,7 +36,7 @@ variant: markdown
 **<u>Updates and Engagement</u>**
 
 6.  **Where can I find updates on privacy regulations and news?**  
-    Check our [News &amp; Updates](/news-and-updates) section for the latest information on privacy regulations, trends, and industry news. We regularly update this section to keep you informed.
+Check our [News &amp; Updates](/news-and-updates) section for the latest information on privacy regulations, trends, and industry news. We regularly update this section to keep you informed.
     
 7.  **How can I get involved with SecureSphere Singapore?**  
-    To get involved, consider subscribing to our newsletter, following us on social media, or participating in our community forums. We also welcome feedback and suggestions to help us improve our resources and services.
+To get involved, consider subscribing to our newsletter, following us on social media, or participating in our community forums. We also welcome feedback and suggestions to help us improve our resources and services.
